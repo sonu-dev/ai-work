@@ -4,7 +4,7 @@
 
 ## AI Coder
 
-**An AI code assistant created with model qwen2.5-coder:7b, Ollama local and Streamlit UI.**
+**An AI Agent as an assistant created with model qwen2.5-coder:7b, Ollama local and Streamlit UI.**
 
 ## AI Text Summarizer
 
