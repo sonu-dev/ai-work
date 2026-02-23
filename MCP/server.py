@@ -1,7 +1,7 @@
 from mcp.server.fastmcp import FastMCP
 
 # Create the MCP server instance
-mcp = FastMCP(name="LocalAI", host="127.0.0.1", port=8080)
+mcp = FastMCP(name="LocalAI", host="0.0.0.0", port=8080)
 
 # Example tool: addition
 @mcp.tool()
